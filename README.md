@@ -1,0 +1,2 @@
+# Application_of_outcome_prediction_with_machineLearning_in_the_olympic_games
+Olympic games perediction app
