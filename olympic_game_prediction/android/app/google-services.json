@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "311807806590",
+    "project_id": "userauthentication-1f312",
+    "storage_bucket": "userauthentication-1f312.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:311807806590:android:01faca1e4d082530cb5c2f",
+        "android_client_info": {
+          "package_name": "com.example.olympic_game_prediction"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "311807806590-8pkoigoo5ao5dbg2ogi29c4hfid2a2pp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.olympic_game_prediction",
+            "certificate_hash": "9a4269a26a7b5430d74d92c32cc99219a0005d5c"
+          }
+        },
+        {
+          "client_id": "311807806590-je3m28dc5l0ggl6rgphoahl9ehcd4jpg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAg6ZrZO3qeUrdj7IMYgXyC-pbIYpuzTsw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "311807806590-je3m28dc5l0ggl6rgphoahl9ehcd4jpg.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "311807806590-gh23occ5ltdsv4bgn65v79jffd6kj1ej.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.olympicGamePrediction"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
